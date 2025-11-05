@@ -28,5 +28,6 @@ Bitcoin Tweet Sentiment Dataset (CSV) from Kaggle — contains tweet texts, like
 Positive tweets dominate and correlate with higher engagement, indicating a link between sentiment and market perception.
 
 ## 🧠 Author
-*Pushpanjali Hh*  
+Pushpanjali  
+202310101150307
 Data Science Project | 2025
