@@ -68,10 +68,11 @@ Version Control: Git & GitHub
 📂 Folder Structure
 
 📁 crypto-sentiment-analysis
+ ┗ 📄 1_README.md
  ┣ 📄 Crypto_Sentiment_Analysis.ipynb
+ ┣ 📄 bitcoin_tweets.csv
  ┣ 📄 bitcoin_tweets_sample.csv
  ┣ 📄 crypto_sentiment_model.pkl
- ┗ 📄 README.md
 
 
 ---
