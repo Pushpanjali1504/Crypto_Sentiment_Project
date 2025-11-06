@@ -69,9 +69,9 @@ Version Control: Git & GitHub
 
 📁 crypto-sentiment-analysis
  ┗ 📄 1_README.md
- ┣ 📄 Crypto_Sentiment_Analysis.ipynb
  ┣ 📄 bitcoin_tweets.csv
  ┣ 📄 bitcoin_tweets_sample.csv
+ ┣ 📄 Crypto_Sentiment_Analysis.ipynb
  ┣ 📄 crypto_sentiment_model.pkl
 
 
